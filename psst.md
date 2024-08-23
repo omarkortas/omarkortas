@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @omarkortas
-- 👀 I’m interested in computer engineering
+- 👋 Hi, I’m @omar el farouk kortas
+- 👀 I’m interested in computer engineering ,IoT Specialist | Innovating the Future of Connected Devices.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
