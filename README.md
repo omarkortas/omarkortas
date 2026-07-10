@@ -169,10 +169,21 @@ const omar = {
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=omarkortas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=ffffff&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkortas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF" />
+  <a href="https://github.com/omarkortas">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omarkortas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=ffffff&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/omarkortas">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkortas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF" />
+  </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/omarkortas">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarkortas&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="220" />
+  </a>
+</div>
 <br/>
 
 <div align="center">
