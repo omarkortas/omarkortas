@@ -1,6 +1,7 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20El%20Farouk%20Kortas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20%26%20Security&descAlignY=60&descAlign=50" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=80&lines=Omar+El+Farouk+Kortas" alt="Omar El Farouk Kortas" />
+  <h3 align="center">Computer Engineer | Full-Stack Developer | Security Enthusiast</h3>
 </div>
 
 <!-- TYPING ANIMATION -->
