@@ -184,11 +184,6 @@ const omar = {
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omarkortas&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="220" />
   </a>
 </div>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkortas&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="300" />
-</div>
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
