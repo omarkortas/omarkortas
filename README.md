@@ -228,9 +228,10 @@ const omar = {
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarkortas&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=omarkortas&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" />
+  </a>
 </div>
-
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
