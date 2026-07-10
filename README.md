@@ -118,31 +118,21 @@ const omar = {
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🚚 Zoomy Delivery Platform</h3>
+      <p><b>Full-stack delivery platform</b> — web + mobile app with JWT authentication, refresh tokens, RBAC, payments, invoicing & real-time tracking. Built during my end-of-studies internship.</p>
       <p align="center">
-        <a href="https://github.com/omarkortas">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarkortas&repo=zoomy&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p><b>Full-stack delivery platform</b> — web + mobile with JWT auth, refresh tokens, RBAC, payments, invoicing & real-time tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔐 BusSoftware RBAC</h3>
+      <h3 align="center">🔐 BusSoftware RBAC System</h3>
+      <p><b>Granular access control system</b> for a transport management app — least-privilege principle, centralized role management, security audits. Summer internship 2026.</p>
       <p align="center">
-        <a href="https://github.com/omarkortas">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarkortas&repo=bus-software-rbac&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
-      <p><b>Granular access control system</b> for transport management — least-privilege model, centralized role management, security audits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Security-4B32C3?style=flat-square&logo=keycloak&logoColor=white" />
-        <img src="https://img.shields.io/badge/-RBAC-000?style=flat-square" />
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/-RBAC-4B32C3?style=for-the-badge&logo=keycloak&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF" />
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -154,12 +144,7 @@ const omar = {
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarkortas&repo=omarportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
         </a>
       </p>
-      <p><b>Modern personal portfolio</b> — responsive design, smooth animations, dark mode, deployed on Vercel.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
+      <p><b>Modern personal portfolio</b> — responsive design, dark mode, deployed on Vercel at <a href="https://omar-kortas.vercel.app">omar-kortas.vercel.app</a>.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🎮 Valorant Tracker</h3>
@@ -169,14 +154,9 @@ const omar = {
         </a>
       </p>
       <p><b>Player stats tracker</b> — consumes the Riot API to display live match stats, ranks & performance analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-      </p>
     </td>
   </tr>
 </table>
-
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
