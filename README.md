@@ -116,20 +116,22 @@ const omar = {
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚚 Zoomy Delivery Platform</h3>
-      <p><b>Full-stack delivery platform</b> — web + mobile app with JWT authentication, refresh tokens, RBAC, payments, invoicing & real-time tracking. Built during my end-of-studies internship.</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3>🚚 Zoomy Delivery Platform</h3>
+      <img src="https://cdn-icons-png.flaticon.com/128/2830/2830284.png" width="80"/>
+      <p><b>Full-stack delivery platform</b> — web + mobile app with JWT authentication, refresh tokens, RBAC, payments, invoicing & real-time tracking.</p>
+      <p>
         <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
         <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔐 BusSoftware RBAC System</h3>
-      <p><b>Granular access control system</b> for a transport management app — least-privilege principle, centralized role management, security audits. Summer internship 2026.</p>
-      <p align="center">
+    <td width="50%" valign="top" align="center">
+      <h3>🔐 BusSoftware RBAC System</h3>
+      <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" width="80"/>
+      <p><b>Granular access control system</b> for a transport management app — least-privilege principle, centralized role management, security audits.</p>
+      <p>
         <img src="https://img.shields.io/badge/-RBAC-4B32C3?style=for-the-badge&logo=keycloak&logoColor=white" />
         <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=00D9FF" />
         <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -137,23 +139,24 @@ const omar = {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Portfolio Website</h3>
-      <p align="center">
-        <a href="https://github.com/omarkortas/omarportfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarkortas&repo=omarportfolio&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/omarkortas/omarportfolio">🎨 Portfolio Website</a></h3>
+      <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" width="80"/>
+      <p><b>Modern personal portfolio</b> — responsive design, dark mode, smooth animations. Deployed at <a href="https://omar-kortas.vercel.app">omar-kortas.vercel.app</a>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       </p>
-      <p><b>Modern personal portfolio</b> — responsive design, dark mode, deployed on Vercel at <a href="https://omar-kortas.vercel.app">omar-kortas.vercel.app</a>.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎮 Valorant Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/omarkortas/valorant-tracker">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=omarkortas&repo=valorant-tracker&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-        </a>
-      </p>
+    <td width="50%" valign="top" align="center">
+      <h3><a href="https://github.com/omarkortas/valorant-tracker">🎮 Valorant Tracker</a></h3>
+      <img src="https://cdn-icons-png.flaticon.com/128/2716/2716611.png" width="80"/>
       <p><b>Player stats tracker</b> — consumes the Riot API to display live match stats, ranks & performance analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/-REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
@@ -170,11 +173,11 @@ const omar = {
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=omarkortas&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=A78BFA&currStreakLabel=00D9FF" />
 </div>
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkortas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=10" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=omarkortas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
-</div>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarkortas&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" height="300" />
+</div>
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -205,14 +208,58 @@ const omar = {
 <!--                          TROPHIES                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🏆 &nbsp;Achievements
+## 🏆 &nbsp;Highlights & Milestones
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=omarkortas&theme=tokyonight&column=4&row=2&margin-w=15&margin-h=15" />
-  </a>
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/128/2621/2621040.png" width="60"/><br/>
+      <b>🎓 MSc Student</b><br/>
+      <sub>Network Security</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/128/2857/2857358.png" width="60"/><br/>
+      <b>💼 3 Internships</b><br/>
+      <sub>Full-Stack + Security</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/128/2103/2103633.png" width="60"/><br/>
+      <b>☁️ Cloud Certified</b><br/>
+      <sub>Cloud Foundations</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" width="60"/><br/>
+      <b>🚀 Full-Stack Dev</b><br/>
+      <sub>Web + Mobile</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/128/6295/6295417.png" width="60"/><br/>
+      <b>🔐 RBAC Expert</b><br/>
+      <sub>Access Control</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/128/1006/1006363.png" width="60"/><br/>
+      <b>🌐 4 Languages</b><br/>
+      <sub>AR · EN · FR · DE</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="60"/><br/>
+      <b>📱 Mobile Dev</b><br/>
+      <sub>React Native</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/128/3199/3199231.png" width="60"/><br/>
+      <b>🐳 DevOps</b><br/>
+      <sub>Docker + CI/CD</sub>
+    </td>
+  </tr>
+</table>
+
 </div>
-<br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                   EDUCATION & CERTIFS                       -->
