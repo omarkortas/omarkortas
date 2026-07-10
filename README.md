@@ -1,12 +1,12 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20El%20Farouk%20Kortas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Omar%20El%20Farouk%20Kortas&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Full-Stack%20%26%20Security&descAlignY=60&descAlign=50" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/omarkortas">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+TypeScript+Enthusiast;NestJS+%7C+Node.js+%7C+Laravel+Backend+Engineer;Docker+%26+Clean+Architecture+Advocate;Always+Learning%2C+Always+Shipping+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+NestJS;Master's+Student+in+Network+Services+%26+Security+%F0%9F%94%90;Mobile+Dev+with+React+Native+%F0%9F%93%B1;Docker+%7C+Clean+Architecture+%7C+Secure+APIs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,52 +23,83 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** based in **Sousse, Tunisia**, currently pursuing a Master's degree at **ISITCom**. I specialize in building modern, scalable web applications with the **JavaScript / TypeScript ecosystem (React, Next.js, NestJS)** and the **PHP ecosystem (Laravel)**.
+I'm a **Computer Engineer** based in **Akouda, Sousse, Tunisia**, currently pursuing a **Master's in Network Services & Security** at **ISITCom Sousse**. I build **full-stack web & mobile applications** with a strong focus on **secure architectures, authentication, and API security**.
 
-- 🔭 Currently working on **full-stack SaaS projects** and internship platforms
-- 🌱 Deepening my expertise in **system design, DevOps, and clean architecture**
-- 💡 Interested in **scalable APIs, developer experience, and product-minded engineering**
-- 📫 Reach me at **omar.kortas.dev@gmail.com** <!-- TODO: replace -->
-- 🌍 Open to **Full-Stack / Backend / Frontend roles** — remote & Tunisia-based
-- 🌐 Portfolio: **[omarkortas.dev](https://omarkortas.dev)** <!-- TODO: replace -->
+- 🎓 Master's student in **Network Services & Security** — Bachelor in Computer Engineering
+- 🔐 Passionate about **cybersecurity, secure API design, and access control (RBAC, JWT)**
+- 💻 Full-stack developer working with **React, Next.js, NestJS, React Native & Laravel**
+- 🌱 Currently deepening my expertise in **DevOps, containerization, and system security**
+- 📫 Reach me at **omaromarkortas@gmail.com**
+- 🌐 Portfolio: **[omar-kortas.vercel.app](https://omar-kortas.vercel.app)**
+- 🌍 Open to **Full-Stack / Backend / Security-focused roles** — remote & Tunisia-based
 
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,php" />
+</p>
+
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
 **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel,php,express" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,laravel" />
+</p>
+
+**Mobile**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,androidstudio" />
 </p>
 
 **Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Security & Networking**
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSL%2FTLS-005571?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-4B32C3?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 **DevOps & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech | Live |
-|---|---|---|---|
-| **[Zoomy](https://github.com/omarkortas/zoomy)** | Full-stack internship & job platform with role-based auth | NestJS · React · TypeScript · MongoDB | [Demo](#) |
-| **[Portfolio](https://github.com/omarkortas/omarportfolio)** | Personal portfolio with modern responsive design | Next.js · Tailwind · TypeScript | [Live](#) |
-| **[CV Templates](https://github.com/omarkortas/cvtemplates)** | Collection of ATS-friendly CV templates | HTML · CSS | [Preview](#) |
-| **[Tic-Tac-Toe](https://github.com/omarkortas/tic-tac-toe)** | Classic game implementation with clean OOP design | Java | — |
-| **[Valorant Tracker](https://github.com/omarkortas/valorant-tracker)** | Player stats tracker consuming the Riot API | React · REST API | — |
+| Project | Description | Tech |
+|---|---|---|
+| **[Zoomy Delivery Platform](https://github.com/omarkortas)** | Full-stack web & mobile delivery platform with JWT auth, refresh tokens, role management, payments, invoicing & real-time tracking | NestJS · Next.js · React Native · MySQL |
+| **[BusSoftware RBAC System](https://github.com/omarkortas)** | Granular role-based access control system for a transport management app, applying least-privilege principles | NestJS · RBAC · Security Audit |
+| **[Portfolio Website](https://github.com/omarkortas/omarportfolio)** | Personal portfolio showcasing my work and skills | Next.js · Tailwind · TypeScript |
+| **[CV Templates](https://github.com/omarkortas/cvtemplates)** | Collection of ATS-friendly CV templates | HTML · CSS |
+| **[Valorant Tracker](https://github.com/omarkortas/valorant-tracker)** | Player stats tracker consuming the Riot API | React · REST API |
+| **[Tic-Tac-Toe](https://github.com/omarkortas/tic-tac-toe)** | Classic game implementation with clean OOP design | Java |
 
-<!-- Replace above with your final 6 pinned repos -->
+---
+
+## 🎓 Education & Certifications
+
+**🎓 Master's in Network Services & Security** — ISITCom Sousse *(2025 – Present)*
+**🎓 Bachelor's in Computer Engineering** — ISITCom Sousse *(2022 – 2025)*
+
+**📜 Certifications:**
+- ☁️ **Cloud Foundations (Advanced)**
+- 🌐 **Responsive Web Design Developer** — freeCodeCamp
+- 🤖 **AI and Big Data in IoT** — Great Learning Academy
 
 ---
 
@@ -95,16 +126,22 @@ I'm a **Full-Stack Developer** based in **Sousse, Tunisia**, currently pursuing 
 
 ---
 
+## 🌍 Languages
+
+🇹🇳 Arabic (Native) · 🇬🇧 English (Intermediate) · 🇫🇷 French (Intermediate) · 🇩🇪 German (Basic)
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omar-el-farouk-kortas-8b4613294/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:omar.kortas.dev@gmail.com">
+  <a href="mailto:omaromarkortas@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://omarkortas.dev">
+  <a href="https://omar-kortas.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/omarkortas">
